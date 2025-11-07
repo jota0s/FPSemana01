@@ -27,3 +27,5 @@ for name, (Ataque, Defesa) in array :
 print(f"Ataque {Maior_ataque[0]} {Maior_ataque[1][0]}")
 print(f"Defesa {Maior_defesa[0]} {Maior_defesa[1][1]}")
 
+
+
